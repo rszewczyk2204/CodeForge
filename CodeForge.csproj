@@ -10,8 +10,9 @@
     <PublishProfile>win10-$(Platform).pubxml</PublishProfile>
     <UseWinUI>true</UseWinUI>
     <EnableMsixTooling>true</EnableMsixTooling>
-    <PackageCertificateThumbprint>0B2D75506A0C990B214F68623C6A779141CAFA96</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>39A464B68CFC1437D082F5B36DD0A3EE073E7FEC</PackageCertificateThumbprint>
     <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
+    <PackageCertificateKeyFile>CodeForge_TemporaryKey.pfx</PackageCertificateKeyFile>
   </PropertyGroup>
 
   <ItemGroup>
