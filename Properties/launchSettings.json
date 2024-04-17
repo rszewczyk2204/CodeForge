@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CodeForge (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CodeForge (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
